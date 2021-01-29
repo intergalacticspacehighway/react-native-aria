@@ -1,2 +1,2 @@
 export * from '@react-aria/checkbox';
-export * from './AriaInputWrapper';
+export * from '../../../utils/AriaInputWrapper.web';
